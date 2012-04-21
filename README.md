@@ -35,6 +35,8 @@ various ways:
 * k = Backward, slide line by line transition
 * f = Forward, fade out/in
 * d = Backward, fade out/in 
+* ] = Move forward without transition
+* [ = Move backward without transition
 
 Feedback
 ========
